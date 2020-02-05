@@ -1,0 +1,14 @@
+{
+  "name": "retlaw",
+  "version": "1.0.0",
+  "description": "edureka tutorial by swatee chand",
+  "main": "index.js",
+  "scripts": {
+    "test": "launch test"
+  },
+  "author": "WD",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

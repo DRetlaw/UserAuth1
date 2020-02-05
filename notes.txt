@@ -1,0 +1,4 @@
+how to ignore node_modules while pushing project to git
+https://stackoverflow.com/questions/35324338/nodejs-with-mongodb-pushing-project-to-github ->
+https://github.com/github/gitignore/blob/master/Node.gitignore
+
